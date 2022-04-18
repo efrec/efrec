@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @efrec
+- 👀 I’m interested in ... hobby gaming, IT automation, infrastructure as code.
+- 🌱 I’m currently learning ... taking CCNA courses.
+- 💞️ I’m looking to collaborate on ... pwsh scripts that simplify life.
+- 📫 How to reach me ... reach out via DMs for email, etc.
